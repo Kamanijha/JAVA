@@ -9,7 +9,7 @@ class Fruit{
 		this(p.name, p.price, p.color, p.weight);
 		//OR this.name=p.name; this.price=p.price; and so on..
 	}
-	Fruit(String name){
+	Fruit(String name){ //  paramentrized constructor 
 		this();
 		this.name=name;
 	}

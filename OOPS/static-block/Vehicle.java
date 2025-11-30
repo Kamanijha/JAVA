@@ -16,6 +16,6 @@ class Vehicle{
 	}
 	static{
 		System.out.println("static block-2 ends");
-		test();
+		//test();
 	}	
 }

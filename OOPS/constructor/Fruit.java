@@ -1,7 +1,7 @@
 class Fruit{
      int x = 34;
      int y ;
-     Fruit(){
+     Fruit(){  // no argument constructor  
 
     }
     public static void test(){
