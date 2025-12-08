@@ -11,4 +11,8 @@ public class Product {
         this.id = id;
     }
 
+    @Override
+    public String toString(){
+        return "price is :"+ price + "name is :" + name+ "id is :" + id;
+    }
 }
